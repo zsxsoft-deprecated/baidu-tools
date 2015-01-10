@@ -1,0 +1,24 @@
+{
+  "name": "baidu-tools",
+  "version": "1.0.0",
+  "description": "一堆个人使用的针对百度产品的脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zsxsoft/baidu-tools.git"
+  },
+  "author": "zsx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsxsoft/baidu-tools/issues"
+  },
+  "homepage": "https://github.com/zsxsoft/baidu-tools",
+  "dependencies": {
+    "iconv-lite": "*",
+    "async": "*",
+    "events": "*"
+  }
+}
